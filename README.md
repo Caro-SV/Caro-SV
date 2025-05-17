@@ -26,7 +26,7 @@ Actualmente me enfoco en en:
 
 ### 📁 ¿Qué encontrarás en mi GitHub?
 
-- Proyectos con **TurtleBot3**, **Create2** y simulaciones en ROS2
+- Proyectos con **TurtleBot3**, **Create2**
 - Simulaciones ROS2 con **SLAM**, navegación y sensores como **LiDAR**
 - Procesamiento de video para detección de objetos o personas
 - Scripts en Python para IA, lógica y control de sistemas
