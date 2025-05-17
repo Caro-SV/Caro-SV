@@ -1,5 +1,6 @@
-![https://github.com/carolinasernav](./carolinasernav_banner.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carolinasernav/carolinasernav/7ad0a6c3abe117b8c0b643c86fb029b9571b1fc8/banner.png" alt="Carolina Dev Banner" style="width:100%;"/>
+</p>
 <h1 align="center">👋 ¡Hola! Soy Carolina</h1>
 
 <p align="center">
