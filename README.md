@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/carolinasernavdev/carolinasernavdev/raw/main/banner.png" alt="Carolina Dev Banner" style="width:100%;"/>
-</p>
+![https://github.com/mouredev](./carolinasernav_banner.png)
 
 <h1 align="center">👋 ¡Hola! Soy Carolina</h1>
 
