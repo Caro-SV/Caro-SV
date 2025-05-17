@@ -1,4 +1,4 @@
-![https://github.com/mouredev](./carolinasernav_banner.png)
+![https://github.com/carolinasernav](./carolinasernav_banner.png)
 
 <h1 align="center">👋 ¡Hola! Soy Carolina</h1>
 
