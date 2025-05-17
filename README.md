@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Ingeniera Mecatrónica</strong><br>
-  Apasionada por la robótica, la programación y el desarrollo de soluciones tecnológicas inteligentes.
+ Apasionada por la robótica, la programación y el desarrollo de soluciones tecnológicas.
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 Soy estudiante de Ingeniería Mecatrónica con énfasis en desarrollo de software, automatización y robótica. Combino la electrónica, la mecánica y la programación para crear soluciones reales y funcionales.
 
-Me especializo en:
+Actualmente me enfoco en en:
 
 - 🤖 **Robótica móvil** con ROS2 y simulaciones en Gazebo.
 - 🧠 **Visión artificial** con Python y OpenCV.
@@ -26,7 +26,7 @@ Me especializo en:
 
 ### 📁 ¿Qué encontrarás en mi GitHub?
 
-- Proyectos de robots como **TurtleBot3** y **Create2**
+- Proyectos con **TurtleBot3**, **Create2** y simulaciones en ROS2
 - Simulaciones ROS2 con **SLAM**, navegación y sensores como **LiDAR**
 - Procesamiento de video para detección de objetos o personas
 - Scripts en Python para IA, lógica y control de sistemas
@@ -41,13 +41,6 @@ Me especializo en:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📈 Stats
-
-![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinadev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinadev&layout=compact&theme=radical)
 
 ---
 > _"El conocimiento es poder, pero compartirlo es sabiduría."_
