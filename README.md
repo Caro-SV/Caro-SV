@@ -15,10 +15,9 @@ Soy estudiante de Ingeniería Mecatrónica con énfasis en desarrollo de softwar
 
 Actualmente me enfoco en en:
 
-- 🤖 **Robótica móvil** con ROS2 y simulaciones en Gazebo.
-- 🧠 **Visión artificial** con Python y OpenCV.
-- 🌐 **Automatización web** usando Selenium.
-- 💡 **Redes neuronales simples** para clasificación de imágenes.
+- **Robótica Móvil** con ROS2 y simulaciones en Gazebo.
+- **Visión Artificial** con Python y OpenCV.
+- **Redes Neuronales** para clasificación de imágenes.
 
 ---
 
@@ -36,7 +35,6 @@ Actualmente me enfoco en en:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
