@@ -11,7 +11,7 @@
 
 ### 🎓 Sobre mí
 
-Soy estudiante de Ingeniería Mecatrónica con énfasis en desarrollo de software, automatización y robótica. Combino la electrónica, la mecánica y la programación para crear soluciones reales y funcionales.
+Ingeniería Mecatrónica con énfasis en desarrollo de software, automatización y robótica. Combino la electrónica, la mecánica y la programación para crear soluciones reales y funcionales.
 
 Actualmente me enfoco en en:
 
