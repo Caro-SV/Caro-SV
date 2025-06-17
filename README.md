@@ -1,9 +1,5 @@
-<!-- BANNER IMAGEN
 <p align="center">
   <img src="https://raw.githubusercontent.com/carolinasernav/carolinasernav/7ad0a6c3abe117b8c0b643c86fb029b9571b1fc8/banner.png" alt="Carolina Dev Banner" style="width:100%;"/>
-</p>-->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a96aea59-cd6e-45c1-8d14-73f236613252" alt="Carolina Dev Banner" style="width:100%;"/>
 </p>
 
 <p align="center">
