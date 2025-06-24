@@ -13,7 +13,7 @@
 
 Candidata a Ingeniería Mecatrónica con énfasis en desarrollo de software, automatización y robótica. Combino la electrónica, la mecánica y la programación para crear soluciones reales y funcionales.
 
-Actualmente me enfóco en en:
+Actualmente me enfoco en en:
 
 - **Robótica Móvil** con ROS2 y simulaciones en Gazebo.
 - **Visión Artificial** con Python y OpenCV.
